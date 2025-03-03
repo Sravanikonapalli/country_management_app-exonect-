@@ -50,6 +50,6 @@ The application will open at `http://localhost:3000/`.
 - Edit or delete states and cities with confirmation dialogs.
 
 ## 🌐 Live Demo
-🔗 [View the Live Demo](https://your-deployed-url.vercel.app/)
+🔗 [View the Live Demo](https://country-management-app-exonect.vercel.app/)
 
 
