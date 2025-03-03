@@ -3,7 +3,7 @@
 ## Project Overview
 This is a **ReactJS-based Country, State, and City Management System** that enables users to manage countries, states, and cities in a hierarchical structure. The application is built without using any external libraries or npm packages.
 
-## 🚀 Features
+## Features
 **Country Management** - Add, edit, and delete countries.  
 **State Management** - Manage states within a country.  
 **City Management** - Manage cities within a state.  
@@ -17,15 +17,15 @@ This is a **ReactJS-based Country, State, and City Management System** that enab
 
 
 ## Installation & Setup
-### 1️. Clone the Repository
+### 1️ Clone the Repository
 ```sh
 git clone https://github.com/Sravanikonapalli/country_management_app-exonect-.git
 ```
-### 2️. Navigate to the Project Directory
+### 2️ Navigate to the Project Directory
 ```sh
 cd country-management-app
 ```
-### 3️. Run the Application
+### 3️ Run the Application
 ```sh
 npm start
 ```
